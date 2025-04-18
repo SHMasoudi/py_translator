@@ -8,4 +8,4 @@
 Install the required library:
 
 ```bash
-pip install googletrans==4.0.0-rc1
+pip install deep_translator
